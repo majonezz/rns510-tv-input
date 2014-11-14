@@ -1,0 +1,1 @@
+gcc tv2.c -o tv2 -lrt
