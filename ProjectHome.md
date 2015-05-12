@@ -1,0 +1,1 @@
+This is simple project to show how to simulate a video tuner for RNS 510. It's created for Raspbian and MCP2515 CAN board like PiCAN or similar.
